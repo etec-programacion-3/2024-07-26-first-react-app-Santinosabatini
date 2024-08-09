@@ -33,10 +33,13 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+<<<<<<< HEAD
+=======
   transition: 12s;
   color: red;
   font-style:oblique;
 
+>>>>>>> 88ac6d4b0549c9e5b82525b8ce06712a7de74fa2
 }
 
 button {
